@@ -54,6 +54,8 @@ Things you may want to cover:
 |tweet_id|references|foreign_key: true|
 
 ### Association
-- has_many
+- belongs_to :user
+- belongs_to :tweet
+
 
 
