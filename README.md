@@ -53,5 +53,7 @@ Things you may want to cover:
 |user_id|references|foreign_key: true|
 |tweet_id|references|foreign_key: true|
 
+### Association
+- has_many
 
 
