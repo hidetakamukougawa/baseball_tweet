@@ -36,8 +36,8 @@ Things you may want to cover:
 - has_many :comments
 
 ## usersテーブル
-｜Column|Type|Options|
-｜------|----|-------|
+|Column|Type|Options|
+|------|----|-------|
 |nickname|string|null: false, unique: true|
 |email|string|null: false, unique: true|
 
